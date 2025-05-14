@@ -18,15 +18,20 @@ I used to watch that series a lot when I was just a kid.
 It basically had some items that were created using texture packs for better lore and overall storytelling, like Rainbow Stone.
 My idea here was to create those blocks and items as blocks and items of their own instead of having to use a texture pack, and have some additional items that people can use for their own Steve Saga stories.
 
+# Achievements
+1. Modding C&C Generals Zero Hour - Understanding the fundamentals and advanced INI coding (Not good with animations and W3D).
+2. Getting relatively fluent in reading C# - Being able to understand what some code does with relative ease (Still not good with writing C#).
+
 # Goals
 ## ---Programming---
-I wanna get good at programming at least one language, preferrably Java or C#, and know the basics of Java, C, C++, C#, Rust and Python.
+I wanna get good at programming in C# (as my main language) and C (as my secondary language). I also wish to at least know the basics of C++, Java and whatever I find interesting in my journey.
+It would also be funny as heck if I learned HolyC and became fluent in it. Perhaps one day.
 
-I don't have a specific time I wanna achieve all of this in, but I'll be working on it from time to time.
+I don't have a specific time I wanna achieve all of this in, but I'll be working on it from time to time. C# by myself and C mostly in school.
 
 ## ---Content Creation---
 I'd love to be able to create fantastic videos with more complex editing at some point.
-Then, I'd also love to know the basics of 3D modeling and animation, digital drawing, texturing and get deeper into music/beat production.
+Then, I'd also love to know semi-advanced 3D modeling and animation, get good at drawing (both on paper and digital), texturing (mostly something for games like Minecraft or whatever project I might come up with throughout my journey) and get deeper into music/beat production.
 
 I'm currently working on improving myself and learning as much as I can.
 
